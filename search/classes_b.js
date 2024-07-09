@@ -6,6 +6,5 @@ var searchData=
   ['nodepropgraphbase_3c_20graph_3c_20nodetype_2c_20nodeproptype_2c_20edgeproptype_2c_20direction_2c_20multi_5fedge_2c_20self_5floop_2c_20adj_5flist_5fspec_2c_20neighbors_5fcontainer_5fspec_2c_20logging_20_3e_2c_20nodeproptype_20_3e',['NodePropGraphBase&lt; Graph&lt; NodeType, NodePropType, EdgePropType, direction, multi_edge, self_loop, adj_list_spec, neighbors_container_spec, logging &gt;, NodePropType &gt;',['../structgraph__lite_1_1detail_1_1NodePropGraphBase.html',1,'graph_lite::detail']]],
   ['nodepropgraphbase_3c_20graph_3c_20nodetype_2c_20nodeproptype_2c_20edgetype_2c_20direction_2c_20multi_5fedge_2c_20self_5floop_2c_20adj_5flist_5fspec_2c_20neighbors_5fcontainer_5fspec_2c_20logging_20_3e_2c_20nodeproptype_20_3e',['NodePropGraphBase&lt; Graph&lt; NodeType, NodePropType, EdgeType, direction, multi_edge, self_loop, adj_list_spec, neighbors_container_spec, logging &gt;, NodePropType &gt;',['../structgraph__lite_1_1detail_1_1NodePropGraphBase.html',1,'graph_lite::detail']]],
   ['nodepropgraphbase_3c_20gtype_2c_20void_20_3e',['NodePropGraphBase&lt; GType, void &gt;',['../structgraph__lite_1_1detail_1_1NodePropGraphBase_3_01GType_00_01void_01_4.html',1,'graph_lite::detail']]],
-  ['normalization',['Normalization',['../classllvm_1_1memoir_1_1Normalization.html',1,'llvm::memoir']]],
-  ['normalizationpass',['NormalizationPass',['../structllvm_1_1memoir_1_1NormalizationPass.html',1,'llvm::memoir']]]
+  ['normalization',['Normalization',['../classllvm_1_1memoir_1_1Normalization.html',1,'llvm::memoir']]]
 ];

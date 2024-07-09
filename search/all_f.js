@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['support',['Support',['../md__nfs-scratch_jtm2066_object-ir_stable_compiler_memoir_support_README.html',1,'']]],
+  ['support',['Support',['../md__nfs-scratch_jtm2066_object-ir_dev_compiler_memoir_support_README.html',1,'']]],
   ['selectexpression',['SelectExpression',['../structllvm_1_1memoir_1_1SelectExpression.html',1,'llvm::memoir']]],
   ['seqcopyinst',['SeqCopyInst',['../structllvm_1_1memoir_1_1SeqCopyInst.html',1,'llvm::memoir']]],
   ['seqinsertinst',['SeqInsertInst',['../structllvm_1_1memoir_1_1SeqInsertInst.html',1,'llvm::memoir']]],
@@ -14,10 +14,8 @@ var searchData=
   ['sizeanalysis',['SizeAnalysis',['../classllvm_1_1memoir_1_1SizeAnalysis.html',1,'llvm::memoir::SizeAnalysis'],['../classllvm_1_1memoir_1_1SizeAnalysis.html#a186d68f44bcf8ed8acd35dd470a7d927',1,'llvm::memoir::SizeAnalysis::SizeAnalysis()']]],
   ['sizeexpression',['SizeExpression',['../structllvm_1_1memoir_1_1SizeExpression.html',1,'llvm::memoir']]],
   ['sizeinst',['SizeInst',['../structllvm_1_1memoir_1_1SizeInst.html',1,'llvm::memoir']]],
-  ['ssaconstructionpass',['SSAConstructionPass',['../structllvm_1_1memoir_1_1SSAConstructionPass.html',1,'llvm::memoir']]],
   ['ssaconstructionstats',['SSAConstructionStats',['../structllvm_1_1memoir_1_1SSAConstructionStats.html',1,'llvm::memoir']]],
   ['ssaconstructionvisitor',['SSAConstructionVisitor',['../classllvm_1_1memoir_1_1SSAConstructionVisitor.html',1,'llvm::memoir']]],
-  ['ssadestructionpass',['SSADestructionPass',['../structllvm_1_1memoir_1_1SSADestructionPass.html',1,'llvm::memoir']]],
   ['ssadestructionstats',['SSADestructionStats',['../structllvm_1_1memoir_1_1SSADestructionStats.html',1,'llvm::memoir']]],
   ['ssadestructionvisitor',['SSADestructionVisitor',['../classllvm_1_1memoir_1_1SSADestructionVisitor.html',1,'llvm::memoir']]],
   ['statictensortype',['StaticTensorType',['../structllvm_1_1memoir_1_1StaticTensorType.html',1,'llvm::memoir']]],

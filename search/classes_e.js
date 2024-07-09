@@ -1,6 +1,7 @@
 var searchData=
 [
-  ['rangeanalysis',['RangeAnalysis',['../classllvm_1_1memoir_1_1RangeAnalysis.html',1,'llvm::memoir']]],
+  ['rangeanalysisdriver',['RangeAnalysisDriver',['../classllvm_1_1memoir_1_1RangeAnalysisDriver.html',1,'llvm::memoir']]],
+  ['rangeanalysisresult',['RangeAnalysisResult',['../structllvm_1_1memoir_1_1RangeAnalysisResult.html',1,'llvm::memoir']]],
   ['readinst',['ReadInst',['../structllvm_1_1memoir_1_1ReadInst.html',1,'llvm::memoir']]],
   ['referencetype',['ReferenceType',['../structllvm_1_1memoir_1_1ReferenceType.html',1,'llvm::memoir']]],
   ['referencetypeinst',['ReferenceTypeInst',['../structllvm_1_1memoir_1_1ReferenceTypeInst.html',1,'llvm::memoir']]],

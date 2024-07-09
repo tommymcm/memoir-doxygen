@@ -4,7 +4,6 @@ var searchData=
   ['memoirexpression',['MemOIRExpression',['../structllvm_1_1memoir_1_1MemOIRExpression.html',1,'llvm::memoir']]],
   ['memoirinst',['MemOIRInst',['../structllvm_1_1memoir_1_1MemOIRInst.html',1,'llvm::memoir']]],
   ['memoirstats',['MemOIRStats',['../structllvm_1_1memoir_1_1MemOIRStats.html',1,'llvm::memoir']]],
-  ['memoirstatspass',['MemOIRStatsPass',['../structllvm_1_1memoir_1_1MemOIRStatsPass.html',1,'llvm::memoir']]],
   ['metadatamanager',['MetadataManager',['../classllvm_1_1memoir_1_1MetadataManager.html',1,'llvm::memoir']]],
   ['multiedgetraits',['MultiEdgeTraits',['../structgraph__lite_1_1detail_1_1MultiEdgeTraits.html',1,'graph_lite::detail']]],
   ['multiedgetraits_3c_20container_3a_3alist_20_3e',['MultiEdgeTraits&lt; Container::LIST &gt;',['../structgraph__lite_1_1detail_1_1MultiEdgeTraits_3_01Container_1_1LIST_01_4.html',1,'graph_lite::detail']]],

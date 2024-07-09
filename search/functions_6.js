@@ -1,6 +1,6 @@
 var searchData=
 [
-  ['rangeanalysis',['RangeAnalysis',['../classllvm_1_1memoir_1_1RangeAnalysis.html#a38b34f23d859947f6047d7d66577b481',1,'llvm::memoir::RangeAnalysis']]],
-  ['results',['results',['../classllvm_1_1memoir_1_1LiveRangeAnalysis.html#a3529fd9f9cfc354a136782c7d0f6db5c',1,'llvm::memoir::LiveRangeAnalysis']]],
+  ['rangeanalysisdriver',['RangeAnalysisDriver',['../classllvm_1_1memoir_1_1RangeAnalysisDriver.html#a71fe21885c5f25fd99d1b68715e17ff6',1,'llvm::memoir::RangeAnalysisDriver']]],
+  ['reify',['reify',['../structllvm_1_1memoir_1_1UnionFind.html#ae815c7b96856cea34cfe038934b3f100',1,'llvm::memoir::UnionFind']]],
   ['run',['run',['../classllvm_1_1memoir_1_1TypeInference.html#a5703bf99c38d80c5b0e6285754e5d774',1,'llvm::memoir::TypeInference']]]
 ];

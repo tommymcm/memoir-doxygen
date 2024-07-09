@@ -78,27 +78,34 @@ Inheritance diagram for llvm::memoir::AssertStructTypeInst:</div>
  <div class="center">
   <img src="structllvm_1_1memoir_1_1AssertStructTypeInst.png" usemap="#llvm::memoir::AssertStructTypeInst_map" alt=""/>
   <map id="llvm::memoir::AssertStructTypeInst_map" name="llvm::memoir::AssertStructTypeInst_map">
+<area href="structllvm_1_1memoir_1_1AssertTypeInst.html" alt="llvm::memoir::AssertTypeInst" shape="rect" coords="0,56,202,80"/>
 <area href="structllvm_1_1memoir_1_1MemOIRInst.html" alt="llvm::memoir::MemOIRInst" shape="rect" coords="0,0,202,24"/>
 </map>
  </div></div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a964b8c8b90c4cb76496eb08d15d3fc31"><td class="memItemLeft" align="right" valign="top"><a id="a964b8c8b90c4cb76496eb08d15d3fc31"></a>
-<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getType</b> () const</td></tr>
-<tr class="separator:a964b8c8b90c4cb76496eb08d15d3fc31"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a475ad4a651c0cd1539b743606e0ed981"><td class="memItemLeft" align="right" valign="top"><a id="a475ad4a651c0cd1539b743606e0ed981"></a>
-llvm::Value &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getTypeOperand</b> () const</td></tr>
-<tr class="separator:a475ad4a651c0cd1539b743606e0ed981"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a923ea41ef4e2e8a98c91edb2f714b04b"><td class="memItemLeft" align="right" valign="top"><a id="a923ea41ef4e2e8a98c91edb2f714b04b"></a>
-llvm::Use &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getTypeOperandAsUse</b> () const</td></tr>
-<tr class="separator:a923ea41ef4e2e8a98c91edb2f714b04b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae8a18dd52a3e86c1d9c665766d752ef1"><td class="memItemLeft" align="right" valign="top"><a id="ae8a18dd52a3e86c1d9c665766d752ef1"></a>
+<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getType</b> () const override</td></tr>
+<tr class="separator:ae8a18dd52a3e86c1d9c665766d752ef1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aadf64b650f25204714dfa63addb87531"><td class="memItemLeft" align="right" valign="top"><a id="aadf64b650f25204714dfa63addb87531"></a>
+llvm::Value &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getTypeOperand</b> () const override</td></tr>
+<tr class="separator:aadf64b650f25204714dfa63addb87531"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a1dfd52e20c015881d0e818a5926ec9a0"><td class="memItemLeft" align="right" valign="top"><a id="a1dfd52e20c015881d0e818a5926ec9a0"></a>
+llvm::Use &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getTypeOperandAsUse</b> () const override</td></tr>
+<tr class="separator:a1dfd52e20c015881d0e818a5926ec9a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2be0d699c553954b6c43ff1f97a511fa"><td class="memItemLeft" align="right" valign="top"><a id="a2be0d699c553954b6c43ff1f97a511fa"></a>
 llvm::Value &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getStruct</b> () const</td></tr>
 <tr class="separator:a2be0d699c553954b6c43ff1f97a511fa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9145385610f737c3343cc97579aee397"><td class="memItemLeft" align="right" valign="top"><a id="a9145385610f737c3343cc97579aee397"></a>
 llvm::Use &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getStructAsUse</b> () const</td></tr>
 <tr class="separator:a9145385610f737c3343cc97579aee397"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af715583a58273208973e58038e9bedb2"><td class="memItemLeft" align="right" valign="top"><a id="af715583a58273208973e58038e9bedb2"></a>
+llvm::Value &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getObject</b> () const override</td></tr>
+<tr class="separator:af715583a58273208973e58038e9bedb2"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a9bb28cb07a1cd762654a812f52079777"><td class="memItemLeft" align="right" valign="top"><a id="a9bb28cb07a1cd762654a812f52079777"></a>
+llvm::Use &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getObjectAsUse</b> () const override</td></tr>
+<tr class="separator:a9bb28cb07a1cd762654a812f52079777"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3915dbb138b0e7befb80f72fe88ebf15"><td class="memItemLeft" align="right" valign="top"><a id="a3915dbb138b0e7befb80f72fe88ebf15"></a>
 std::string&#160;</td><td class="memItemRight" valign="bottom"><b>toString</b> (std::string indent=&quot;&quot;) const override</td></tr>
 <tr class="separator:a3915dbb138b0e7befb80f72fe88ebf15"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,6 +146,10 @@ Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a83d42ec7f9b71b6a9d82b8dd154a4acf"><td class="memItemLeft" align="right" valign="top"><a id="a83d42ec7f9b71b6a9d82b8dd154a4acf"></a>
 static bool&#160;</td><td class="memItemRight" valign="bottom"><b>classof</b> (const <a class="el" href="structllvm_1_1memoir_1_1MemOIRInst.html">MemOIRInst</a> *I)</td></tr>
 <tr class="separator:a83d42ec7f9b71b6a9d82b8dd154a4acf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pub_static_methods_structllvm_1_1memoir_1_1AssertTypeInst"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_structllvm_1_1memoir_1_1AssertTypeInst')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="structllvm_1_1memoir_1_1AssertTypeInst.html">llvm::memoir::AssertTypeInst</a></td></tr>
+<tr class="memitem:a3fbc4c064ca484e7be6c93da1d593cab inherit pub_static_methods_structllvm_1_1memoir_1_1AssertTypeInst"><td class="memItemLeft" align="right" valign="top"><a id="a3fbc4c064ca484e7be6c93da1d593cab"></a>
+static bool&#160;</td><td class="memItemRight" valign="bottom"><b>classof</b> (const <a class="el" href="structllvm_1_1memoir_1_1MemOIRInst.html">MemOIRInst</a> *I)</td></tr>
+<tr class="separator:a3fbc4c064ca484e7be6c93da1d593cab inherit pub_static_methods_structllvm_1_1memoir_1_1AssertTypeInst"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pub_static_methods_structllvm_1_1memoir_1_1MemOIRInst"><td colspan="2" onclick="javascript:toggleInherit('pub_static_methods_structllvm_1_1memoir_1_1MemOIRInst')"><img src="closed.png" alt="-"/>&#160;Static Public Member Functions inherited from <a class="el" href="structllvm_1_1memoir_1_1MemOIRInst.html">llvm::memoir::MemOIRInst</a></td></tr>
 <tr class="memitem:ae98433cd05319f6a335294adbf8132ae inherit pub_static_methods_structllvm_1_1memoir_1_1MemOIRInst"><td class="memItemLeft" align="right" valign="top"><a id="ae98433cd05319f6a335294adbf8132ae"></a>
 static <a class="el" href="structllvm_1_1memoir_1_1MemOIRInst.html">MemOIRInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>get</b> (llvm::Instruction &amp;I)</td></tr>
@@ -155,6 +166,10 @@ Protected Member Functions</h2></td></tr>
 <tr class="memitem:a135d010f2af8c8f8c2cb0cedb7714d01"><td class="memItemLeft" align="right" valign="top"><a id="a135d010f2af8c8f8c2cb0cedb7714d01"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>AssertStructTypeInst</b> (llvm::CallInst &amp;call_inst)</td></tr>
 <tr class="separator:a135d010f2af8c8f8c2cb0cedb7714d01"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="inherit_header pro_methods_structllvm_1_1memoir_1_1AssertTypeInst"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_structllvm_1_1memoir_1_1AssertTypeInst')"><img src="closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="structllvm_1_1memoir_1_1AssertTypeInst.html">llvm::memoir::AssertTypeInst</a></td></tr>
+<tr class="memitem:aa96e37f1b5fd3bb2ffaad656eb382ce8 inherit pro_methods_structllvm_1_1memoir_1_1AssertTypeInst"><td class="memItemLeft" align="right" valign="top"><a id="aa96e37f1b5fd3bb2ffaad656eb382ce8"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><b>AssertTypeInst</b> (llvm::CallInst &amp;call_inst)</td></tr>
+<tr class="separator:aa96e37f1b5fd3bb2ffaad656eb382ce8 inherit pro_methods_structllvm_1_1memoir_1_1AssertTypeInst"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="inherit_header pro_methods_structllvm_1_1memoir_1_1MemOIRInst"><td colspan="2" onclick="javascript:toggleInherit('pro_methods_structllvm_1_1memoir_1_1MemOIRInst')"><img src="closed.png" alt="-"/>&#160;Protected Member Functions inherited from <a class="el" href="structllvm_1_1memoir_1_1MemOIRInst.html">llvm::memoir::MemOIRInst</a></td></tr>
 <tr class="memitem:af536e2a81d957c746418aa501ebb3f46 inherit pro_methods_structllvm_1_1memoir_1_1MemOIRInst"><td class="memItemLeft" align="right" valign="top"><a id="af536e2a81d957c746418aa501ebb3f46"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><b>MemOIRInst</b> (llvm::CallInst &amp;call_inst)</td></tr>
@@ -162,9 +177,9 @@ Protected Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="friends"></a>
 Friends</h2></td></tr>
-<tr class="memitem:a051050f15dd7158c2a76853264ccbb71"><td class="memItemLeft" align="right" valign="top"><a id="a051050f15dd7158c2a76853264ccbb71"></a>
-class&#160;</td><td class="memItemRight" valign="bottom"><b>MemOIRInst</b></td></tr>
-<tr class="separator:a051050f15dd7158c2a76853264ccbb71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8eb2f7d8910dd65cde85958daf3ff6c8"><td class="memItemLeft" align="right" valign="top"><a id="a8eb2f7d8910dd65cde85958daf3ff6c8"></a>
+struct&#160;</td><td class="memItemRight" valign="bottom"><b>MemOIRInst</b></td></tr>
+<tr class="separator:a8eb2f7d8910dd65cde85958daf3ff6c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="inherited"></a>
 Additional Inherited Members</h2></td></tr>
@@ -178,8 +193,8 @@ static map&lt; llvm::Instruction *, <a class="el" href="structllvm_1_1memoir_1_1
 <tr class="separator:ae81a3334fed75a9c80dc8a2ee1b3d231 inherit pro_static_attribs_structllvm_1_1memoir_1_1MemOIRInst"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <hr/>The documentation for this struct was generated from the following files:<ul>
-<li>/nfs-scratch/jtm2066/object-ir/latest/compiler/memoir/ir/<a class="el" href="Instructions_8hpp_source.html">Instructions.hpp</a></li>
-<li>/nfs-scratch/jtm2066/object-ir/latest/compiler/memoir/ir/src/AssertTypeInst.cpp</li>
+<li>/nfs-scratch/jtm2066/object-ir/dev/compiler/memoir/ir/<a class="el" href="Instructions_8hpp_source.html">Instructions.hpp</a></li>
+<li>/nfs-scratch/jtm2066/object-ir/dev/compiler/memoir/ir/src/Instructions/AssertTypeInst.cpp</li>
 </ul>
 </div><!-- contents -->
 <!-- start footer part -->

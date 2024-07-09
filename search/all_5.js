@@ -2,7 +2,6 @@ var searchData=
 [
   ['fieldarraytype',['FieldArrayType',['../structllvm_1_1memoir_1_1FieldArrayType.html',1,'llvm::memoir']]],
   ['fieldelision',['FieldElision',['../classllvm_1_1memoir_1_1FieldElision.html',1,'llvm::memoir']]],
-  ['fieldelisionpass',['FieldElisionPass',['../structllvm_1_1memoir_1_1FieldElisionPass.html',1,'llvm::memoir']]],
   ['filtered_5fiter_5fwrapper',['filtered_iter_wrapper',['../structllvm_1_1memoir_1_1DirectedGraph_1_1FilteredView_1_1filtered__iter__wrapper.html',1,'llvm::memoir::DirectedGraph::FilteredView']]],
   ['filteredview',['FilteredView',['../structllvm_1_1memoir_1_1DirectedGraph_1_1FilteredView.html',1,'llvm::memoir::DirectedGraph']]],
   ['floattype',['FloatType',['../structllvm_1_1memoir_1_1FloatType.html',1,'llvm::memoir']]],

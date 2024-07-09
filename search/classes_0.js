@@ -6,6 +6,7 @@ var searchData=
   ['argumentexpression',['ArgumentExpression',['../structllvm_1_1memoir_1_1ArgumentExpression.html',1,'llvm::memoir']]],
   ['assertcollectiontypeinst',['AssertCollectionTypeInst',['../structllvm_1_1memoir_1_1AssertCollectionTypeInst.html',1,'llvm::memoir']]],
   ['assertstructtypeinst',['AssertStructTypeInst',['../structllvm_1_1memoir_1_1AssertStructTypeInst.html',1,'llvm::memoir']]],
+  ['asserttypeinst',['AssertTypeInst',['../structllvm_1_1memoir_1_1AssertTypeInst.html',1,'llvm::memoir']]],
   ['assocarrayallocinst',['AssocArrayAllocInst',['../structllvm_1_1memoir_1_1AssocArrayAllocInst.html',1,'llvm::memoir']]],
   ['assocarraytype',['AssocArrayType',['../structllvm_1_1memoir_1_1AssocArrayType.html',1,'llvm::memoir']]],
   ['assocarraytypeinst',['AssocArrayTypeInst',['../structllvm_1_1memoir_1_1AssocArrayTypeInst.html',1,'llvm::memoir']]],
