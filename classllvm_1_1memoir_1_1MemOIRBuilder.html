@@ -133,6 +133,24 @@ llvm::Module &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getModu
 <tr class="memitem:a7dfd67f6d8c555510b363c6ac37169c5"><td class="memItemLeft" align="right" valign="top"><a id="a7dfd67f6d8c555510b363c6ac37169c5"></a>
 <a class="el" href="structllvm_1_1memoir_1_1AssocArrayAllocInst.html">AssocArrayAllocInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateAssocArrayAllocInst</b> (llvm::Value *key_type, llvm::Value *value_type, const Twine &amp;name=&quot;&quot;)</td></tr>
 <tr class="separator:a7dfd67f6d8c555510b363c6ac37169c5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3efbeecea31d2b7abd9bdb573c48a8c7"><td class="memItemLeft" align="right" valign="top"><a id="a3efbeecea31d2b7abd9bdb573c48a8c7"></a>
+<a class="el" href="structllvm_1_1memoir_1_1StructReadInst.html">StructReadInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateStructReadInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_collection, llvm::Value *llvm_field_index, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:a3efbeecea31d2b7abd9bdb573c48a8c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeda5e36b1b554bf4a2af7f9b8158d852"><td class="memItemLeft" align="right" valign="top"><a id="aeda5e36b1b554bf4a2af7f9b8158d852"></a>
+<a class="el" href="structllvm_1_1memoir_1_1IndexReadInst.html">IndexReadInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateIndexReadInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_collection, llvm::Value *llvm_index, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:aeda5e36b1b554bf4a2af7f9b8158d852"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a35bcdd3e4d72df010d3f378d1e2235d5"><td class="memItemLeft" align="right" valign="top"><a id="a35bcdd3e4d72df010d3f378d1e2235d5"></a>
+<a class="el" href="structllvm_1_1memoir_1_1AssocReadInst.html">AssocReadInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateAssocReadInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_collection, llvm::Value *llvm_key, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:a35bcdd3e4d72df010d3f378d1e2235d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a45c147d53ea2c4029b30945c43b6ad43"><td class="memItemLeft" align="right" valign="top"><a id="a45c147d53ea2c4029b30945c43b6ad43"></a>
+<a class="el" href="structllvm_1_1memoir_1_1StructGetInst.html">StructGetInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateStructGetInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_collection, llvm::Value *llvm_field_index, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:a45c147d53ea2c4029b30945c43b6ad43"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa9e09f7584b2805a0371ace0d7e4ad8a"><td class="memItemLeft" align="right" valign="top"><a id="aa9e09f7584b2805a0371ace0d7e4ad8a"></a>
+<a class="el" href="structllvm_1_1memoir_1_1IndexGetInst.html">IndexGetInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateIndexGetInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_collection, llvm::Value *llvm_index, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:aa9e09f7584b2805a0371ace0d7e4ad8a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a96a7082f79f33dcd1fa25137d2c6e756"><td class="memItemLeft" align="right" valign="top"><a id="a96a7082f79f33dcd1fa25137d2c6e756"></a>
+<a class="el" href="structllvm_1_1memoir_1_1AssocGetInst.html">AssocGetInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateAssocGetInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_collection, llvm::Value *llvm_key, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:a96a7082f79f33dcd1fa25137d2c6e756"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8371415fcada7865a1ab9df67cf6b773"><td class="memItemLeft" align="right" valign="top"><a id="a8371415fcada7865a1ab9df67cf6b773"></a>
 <a class="el" href="structllvm_1_1memoir_1_1StructWriteInst.html">StructWriteInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateStructWriteInst</b> (<a class="el" href="structllvm_1_1memoir_1_1Type.html">Type</a> &amp;element_type, llvm::Value *llvm_value_to_write, llvm::Value *llvm_collection, llvm::Value *llvm_field_index, const Twine &amp;name=&quot;&quot;)</td></tr>
 <tr class="separator:a8371415fcada7865a1ab9df67cf6b773"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -160,6 +178,9 @@ llvm::Module &amp;&#160;</td><td class="memItemRight" valign="bottom"><b>getModu
 <tr class="memitem:af03607c7a8ce378d97b314a128c62b71"><td class="memItemLeft" align="right" valign="top"><a id="af03607c7a8ce378d97b314a128c62b71"></a>
 <a class="el" href="structllvm_1_1memoir_1_1AssocRemoveInst.html">AssocRemoveInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateAssocRemoveInst</b> (llvm::Value *collection, llvm::Value *key_value, const Twine &amp;name=&quot;&quot;)</td></tr>
 <tr class="separator:af03607c7a8ce378d97b314a128c62b71"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adb27394725220f92c736c6c50037377f"><td class="memItemLeft" align="right" valign="top"><a id="adb27394725220f92c736c6c50037377f"></a>
+<a class="el" href="structllvm_1_1memoir_1_1AssocKeysInst.html">AssocKeysInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateAssocKeysInst</b> (llvm::Value *collection, const Twine &amp;name=&quot;&quot;)</td></tr>
+<tr class="separator:adb27394725220f92c736c6c50037377f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a709e1104ef86990608dd56895bd13d3c"><td class="memItemLeft" align="right" valign="top"><a id="a709e1104ef86990608dd56895bd13d3c"></a>
 <a class="el" href="structllvm_1_1memoir_1_1MutAssocInsertInst.html">MutAssocInsertInst</a> *&#160;</td><td class="memItemRight" valign="bottom"><b>CreateMutAssocInsertInst</b> (llvm::Value *collection, llvm::Value *key_value, const Twine &amp;name=&quot;&quot;)</td></tr>
 <tr class="separator:a709e1104ef86990608dd56895bd13d3c"><td class="memSeparator" colspan="2">&#160;</td></tr>

@@ -6,6 +6,7 @@ var searchData=
   ['filteredview',['FilteredView',['../structllvm_1_1memoir_1_1DirectedGraph_1_1FilteredView.html',1,'llvm::memoir::DirectedGraph']]],
   ['floattype',['FloatType',['../structllvm_1_1memoir_1_1FloatType.html',1,'llvm::memoir']]],
   ['floattypeinst',['FloatTypeInst',['../structllvm_1_1memoir_1_1FloatTypeInst.html',1,'llvm::memoir']]],
+  ['foldinst',['FoldInst',['../structllvm_1_1memoir_1_1FoldInst.html',1,'llvm::memoir']]],
   ['functionnames',['FunctionNames',['../classllvm_1_1memoir_1_1FunctionNames.html',1,'llvm::memoir']]],
   ['functiontype',['FunctionType',['../structllvm_1_1memoir_1_1FunctionType.html',1,'llvm::memoir']]]
 ];
