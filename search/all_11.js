@@ -1,14 +1,19 @@
 var searchData=
 [
-  ['utility',['Utility',['../md__nfs-scratch_jtm2066_object-ir_dev_compiler_memoir_utility_README.html',1,'']]],
-  ['uint16typeinst',['UInt16TypeInst',['../structllvm_1_1memoir_1_1UInt16TypeInst.html',1,'llvm::memoir']]],
-  ['uint2typeinst',['UInt2TypeInst',['../structllvm_1_1memoir_1_1UInt2TypeInst.html',1,'llvm::memoir']]],
-  ['uint32typeinst',['UInt32TypeInst',['../structllvm_1_1memoir_1_1UInt32TypeInst.html',1,'llvm::memoir']]],
-  ['uint64typeinst',['UInt64TypeInst',['../structllvm_1_1memoir_1_1UInt64TypeInst.html',1,'llvm::memoir']]],
-  ['uint8typeinst',['UInt8TypeInst',['../structllvm_1_1memoir_1_1UInt8TypeInst.html',1,'llvm::memoir']]],
-  ['unionfind',['UnionFind',['../structllvm_1_1memoir_1_1UnionFind.html',1,'llvm::memoir']]],
-  ['unknownexpression',['UnknownExpression',['../structllvm_1_1memoir_1_1UnknownExpression.html',1,'llvm::memoir']]],
-  ['unwrap_5fref',['unwrap_ref',['../structllvm_1_1memoir_1_1unwrap__ref.html',1,'llvm::memoir']]],
-  ['unwrap_5fref_3c_20std_3a_3areference_5fwrapper_3c_20t_20_3e_20_3e',['unwrap_ref&lt; std::reference_wrapper&lt; T &gt; &gt;',['../structllvm_1_1memoir_1_1unwrap__ref_3_01std_1_1reference__wrapper_3_01T_01_4_01_4.html',1,'llvm::memoir']]],
-  ['usephiinst',['UsePHIInst',['../structllvm_1_1memoir_1_1UsePHIInst.html',1,'llvm::memoir']]]
+  ['selectexpression_225',['SelectExpression',['../structllvm_1_1memoir_1_1SelectExpression.html',1,'llvm::memoir']]],
+  ['selectionkeyword_226',['SelectionKeyword',['../structllvm_1_1memoir_1_1SelectionKeyword.html',1,'llvm::memoir']]],
+  ['sequencetype_227',['SequenceType',['../structllvm_1_1memoir_1_1SequenceType.html',1,'llvm::memoir']]],
+  ['sequencetypeinst_228',['SequenceTypeInst',['../structllvm_1_1memoir_1_1SequenceTypeInst.html',1,'llvm::memoir']]],
+  ['setargno_229',['setArgNo',['../structllvm_1_1memoir_1_1LiveOutMetadata.html#a31871496f446be8f01f3b2c98a3327f3',1,'llvm::memoir::LiveOutMetadata']]],
+  ['sizeexpression_230',['SizeExpression',['../structllvm_1_1memoir_1_1SizeExpression.html',1,'llvm::memoir']]],
+  ['sizeinst_231',['SizeInst',['../structllvm_1_1memoir_1_1SizeInst.html',1,'llvm::memoir']]],
+  ['sortedvector_232',['SortedVector',['../structllvm_1_1memoir_1_1SortedVector.html',1,'llvm::memoir']]],
+  ['ssaconstructionstats_233',['SSAConstructionStats',['../structllvm_1_1memoir_1_1SSAConstructionStats.html',1,'llvm::memoir']]],
+  ['ssaconstructionvisitor_234',['SSAConstructionVisitor',['../classllvm_1_1memoir_1_1SSAConstructionVisitor.html',1,'llvm::memoir']]],
+  ['ssadestructionstats_235',['SSADestructionStats',['../structllvm_1_1memoir_1_1SSADestructionStats.html',1,'llvm::memoir']]],
+  ['ssadestructionvisitor_236',['SSADestructionVisitor',['../classllvm_1_1memoir_1_1SSADestructionVisitor.html',1,'llvm::memoir']]],
+  ['statsvisitor_237',['StatsVisitor',['../classllvm_1_1memoir_1_1StatsVisitor.html',1,'llvm::memoir']]],
+  ['structinstantiation_238',['StructInstantiation',['../structllvm_1_1memoir_1_1StructInstantiation.html',1,'llvm::memoir']]],
+  ['subset_5fof_239',['subset_of',['../structllvm_1_1memoir_1_1FunctionPath.html#a319892867556958b02b0a38377de6957',1,'llvm::memoir::FunctionPath']]],
+  ['support_240',['Support',['../md__tank_tommy_memoir_upstream_compiler_memoir_support_README.html',1,'']]]
 ];

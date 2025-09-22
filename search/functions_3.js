@@ -1,9 +1,7 @@
 var searchData=
 [
-  ['get_5fdataflow_5fresult',['get_dataflow_result',['../structllvm_1_1memoir_1_1LivenessResult.html#a51292856e3da7a93b1a053aa1e20c458',1,'llvm::memoir::LivenessResult']]],
-  ['get_5flive_5frange',['get_live_range',['../structllvm_1_1memoir_1_1LiveRangeAnalysisResult.html#a022e0b25a9b26f8da509222c9fd3604a',1,'llvm::memoir::LiveRangeAnalysisResult::get_live_range(llvm::Value &amp;V) const'],['../structllvm_1_1memoir_1_1LiveRangeAnalysisResult.html#ae34049219754e929caf76a6b3b03ce77',1,'llvm::memoir::LiveRangeAnalysisResult::get_live_range(llvm::Value &amp;V, llvm::CallBase &amp;C) const']]],
-  ['get_5flower',['get_lower',['../structllvm_1_1memoir_1_1ValueRange.html#aead7f8d74f866f64a0a7baeba8d4340c',1,'llvm::memoir::ValueRange']]],
-  ['get_5fupper',['get_upper',['../structllvm_1_1memoir_1_1ValueRange.html#aaf07328850da61eb4690226d9a98d394',1,'llvm::memoir::ValueRange']]],
-  ['get_5fvalue_5frange',['get_value_range',['../structllvm_1_1memoir_1_1RangeAnalysisResult.html#acce05ac2a91ae17cd09c60934bc3f7cf',1,'llvm::memoir::RangeAnalysisResult::get_value_range()'],['../classllvm_1_1memoir_1_1RangeAnalysisDriver.html#a6ddd61c96f4565dfde6cfedc35a29e78',1,'llvm::memoir::RangeAnalysisDriver::get_value_range()']]],
-  ['getsize',['getSize',['../classllvm_1_1memoir_1_1SizeAnalysis.html#ac60dc9c5d91becf446cf7e3fbff6a8c5',1,'llvm::memoir::SizeAnalysis']]]
+  ['deadelementelimination_514',['DeadElementElimination',['../classllvm_1_1memoir_1_1DeadElementElimination.html#a87b48393cd8c966e57c44fd560d7b4c6',1,'llvm::memoir::DeadElementElimination']]],
+  ['disjunctive_5fmerge_515',['disjunctive_merge',['../classllvm_1_1memoir_1_1LiveRangeAnalysisDriver.html#ad873b64e3773002ca3c1fe7a6046511c',1,'llvm::memoir::LiveRangeAnalysisDriver']]],
+  ['dump_516',['dump',['../structllvm_1_1memoir_1_1RangeAnalysisResult.html#a853cb78d222beb5874398ad795861af5',1,'llvm::memoir::RangeAnalysisResult']]],
+  ['duplicated_517',['duplicated',['../structllvm_1_1memoir_1_1FunctionPath.html#a5433b411ecf1bc0642b0b4d7dc1b679e',1,'llvm::memoir::FunctionPath']]]
 ];

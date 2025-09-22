@@ -1,15 +1,16 @@
 var searchData=
 [
-  ['tensorallocinst',['TensorAllocInst',['../structllvm_1_1memoir_1_1TensorAllocInst.html',1,'llvm::memoir']]],
-  ['tensortype',['TensorType',['../structllvm_1_1memoir_1_1TensorType.html',1,'llvm::memoir']]],
-  ['tensortypeinst',['TensorTypeInst',['../structllvm_1_1memoir_1_1TensorTypeInst.html',1,'llvm::memoir']]],
-  ['type',['Type',['../structllvm_1_1memoir_1_1Type.html',1,'llvm::memoir']]],
-  ['typechecker',['TypeChecker',['../classllvm_1_1memoir_1_1TypeChecker.html',1,'llvm::memoir']]],
-  ['typeconverter',['TypeConverter',['../classllvm_1_1memoir_1_1TypeConverter.html',1,'llvm::memoir']]],
-  ['typeinference',['TypeInference',['../classllvm_1_1memoir_1_1TypeInference.html',1,'llvm::memoir']]],
-  ['typeinst',['TypeInst',['../structllvm_1_1memoir_1_1TypeInst.html',1,'llvm::memoir']]],
-  ['typelayout',['TypeLayout',['../structllvm_1_1memoir_1_1TypeLayout.html',1,'llvm::memoir']]],
-  ['typevariable',['TypeVariable',['../structllvm_1_1memoir_1_1TypeVariable.html',1,'llvm::memoir']]],
-  ['typevisitor',['TypeVisitor',['../classllvm_1_1memoir_1_1TypeVisitor.html',1,'llvm::memoir']]],
-  ['typevisitor_3c_20typeconverter_2c_20typelayout_20_26_3e',['TypeVisitor&lt; TypeConverter, TypeLayout &amp;&gt;',['../classllvm_1_1memoir_1_1TypeVisitor.html',1,'llvm::memoir']]]
+  ['selectexpression_457',['SelectExpression',['../structllvm_1_1memoir_1_1SelectExpression.html',1,'llvm::memoir']]],
+  ['selectionkeyword_458',['SelectionKeyword',['../structllvm_1_1memoir_1_1SelectionKeyword.html',1,'llvm::memoir']]],
+  ['sequencetype_459',['SequenceType',['../structllvm_1_1memoir_1_1SequenceType.html',1,'llvm::memoir']]],
+  ['sequencetypeinst_460',['SequenceTypeInst',['../structllvm_1_1memoir_1_1SequenceTypeInst.html',1,'llvm::memoir']]],
+  ['sizeexpression_461',['SizeExpression',['../structllvm_1_1memoir_1_1SizeExpression.html',1,'llvm::memoir']]],
+  ['sizeinst_462',['SizeInst',['../structllvm_1_1memoir_1_1SizeInst.html',1,'llvm::memoir']]],
+  ['sortedvector_463',['SortedVector',['../structllvm_1_1memoir_1_1SortedVector.html',1,'llvm::memoir']]],
+  ['ssaconstructionstats_464',['SSAConstructionStats',['../structllvm_1_1memoir_1_1SSAConstructionStats.html',1,'llvm::memoir']]],
+  ['ssaconstructionvisitor_465',['SSAConstructionVisitor',['../classllvm_1_1memoir_1_1SSAConstructionVisitor.html',1,'llvm::memoir']]],
+  ['ssadestructionstats_466',['SSADestructionStats',['../structllvm_1_1memoir_1_1SSADestructionStats.html',1,'llvm::memoir']]],
+  ['ssadestructionvisitor_467',['SSADestructionVisitor',['../classllvm_1_1memoir_1_1SSADestructionVisitor.html',1,'llvm::memoir']]],
+  ['statsvisitor_468',['StatsVisitor',['../classllvm_1_1memoir_1_1StatsVisitor.html',1,'llvm::memoir']]],
+  ['structinstantiation_469',['StructInstantiation',['../structllvm_1_1memoir_1_1StructInstantiation.html',1,'llvm::memoir']]]
 ];

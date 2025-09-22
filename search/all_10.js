@@ -1,17 +1,16 @@
 var searchData=
 [
-  ['tensorallocinst',['TensorAllocInst',['../structllvm_1_1memoir_1_1TensorAllocInst.html',1,'llvm::memoir']]],
-  ['tensortype',['TensorType',['../structllvm_1_1memoir_1_1TensorType.html',1,'llvm::memoir']]],
-  ['tensortypeinst',['TensorTypeInst',['../structllvm_1_1memoir_1_1TensorTypeInst.html',1,'llvm::memoir']]],
-  ['transformed',['transformed',['../classllvm_1_1memoir_1_1DeadElementElimination.html#ae73c7afeead8285b32059082d6c945a2',1,'llvm::memoir::DeadElementElimination']]],
-  ['type',['Type',['../structllvm_1_1memoir_1_1Type.html',1,'llvm::memoir']]],
-  ['type_5fof',['type_of',['../classllvm_1_1memoir_1_1TypeChecker.html#a96ef5231ec689b5790105a7d729176ed',1,'llvm::memoir::TypeChecker::type_of(MemOIRInst &amp;I)'],['../classllvm_1_1memoir_1_1TypeChecker.html#a2c21121f78e7b2119bcc2329bb705198',1,'llvm::memoir::TypeChecker::type_of(llvm::Value &amp;V)']]],
-  ['typechecker',['TypeChecker',['../classllvm_1_1memoir_1_1TypeChecker.html',1,'llvm::memoir']]],
-  ['typeconverter',['TypeConverter',['../classllvm_1_1memoir_1_1TypeConverter.html',1,'llvm::memoir']]],
-  ['typeinference',['TypeInference',['../classllvm_1_1memoir_1_1TypeInference.html',1,'llvm::memoir::TypeInference'],['../classllvm_1_1memoir_1_1TypeInference.html#a11735ecd517c8288d3775d88e2803bee',1,'llvm::memoir::TypeInference::TypeInference()']]],
-  ['typeinst',['TypeInst',['../structllvm_1_1memoir_1_1TypeInst.html',1,'llvm::memoir']]],
-  ['typelayout',['TypeLayout',['../structllvm_1_1memoir_1_1TypeLayout.html',1,'llvm::memoir']]],
-  ['typevariable',['TypeVariable',['../structllvm_1_1memoir_1_1TypeVariable.html',1,'llvm::memoir']]],
-  ['typevisitor',['TypeVisitor',['../classllvm_1_1memoir_1_1TypeVisitor.html',1,'llvm::memoir']]],
-  ['typevisitor_3c_20typeconverter_2c_20typelayout_20_26_3e',['TypeVisitor&lt; TypeConverter, TypeLayout &amp;&gt;',['../classllvm_1_1memoir_1_1TypeVisitor.html',1,'llvm::memoir']]]
+  ['rangeanalysisdriver_212',['RangeAnalysisDriver',['../classllvm_1_1memoir_1_1RangeAnalysisDriver.html',1,'llvm::memoir::RangeAnalysisDriver'],['../classllvm_1_1memoir_1_1RangeAnalysisDriver.html#a71fe21885c5f25fd99d1b68715e17ff6',1,'llvm::memoir::RangeAnalysisDriver::RangeAnalysisDriver()']]],
+  ['rangeanalysisresult_213',['RangeAnalysisResult',['../structllvm_1_1memoir_1_1RangeAnalysisResult.html',1,'llvm::memoir']]],
+  ['rangekeyword_214',['RangeKeyword',['../structllvm_1_1memoir_1_1RangeKeyword.html',1,'llvm::memoir']]],
+  ['readinst_215',['ReadInst',['../structllvm_1_1memoir_1_1ReadInst.html',1,'llvm::memoir']]],
+  ['referencetype_216',['ReferenceType',['../structllvm_1_1memoir_1_1ReferenceType.html',1,'llvm::memoir']]],
+  ['referencetypeinst_217',['ReferenceTypeInst',['../structllvm_1_1memoir_1_1ReferenceTypeInst.html',1,'llvm::memoir']]],
+  ['reify_218',['reify',['../structllvm_1_1memoir_1_1UnionFind.html#a9f55b91dcc600f6347078563f60cc347',1,'llvm::memoir::UnionFind']]],
+  ['remove_5fcv_5fref_219',['remove_cv_ref',['../structgraph__lite_1_1detail_1_1remove__cv__ref.html',1,'graph_lite::detail']]],
+  ['removeinst_220',['RemoveInst',['../structllvm_1_1memoir_1_1RemoveInst.html',1,'llvm::memoir']]],
+  ['retphiinst_221',['RetPHIInst',['../structllvm_1_1memoir_1_1RetPHIInst.html',1,'llvm::memoir']]],
+  ['returntypeinst_222',['ReturnTypeInst',['../structllvm_1_1memoir_1_1ReturnTypeInst.html',1,'llvm::memoir']]],
+  ['reversekeyword_223',['ReverseKeyword',['../structllvm_1_1memoir_1_1ReverseKeyword.html',1,'llvm::memoir']]],
+  ['run_224',['run',['../classllvm_1_1memoir_1_1TypeInference.html#a5703bf99c38d80c5b0e6285754e5d774',1,'llvm::memoir::TypeInference::run()'],['../classllvm_1_1memoir_1_1TypeInference.html#a5703bf99c38d80c5b0e6285754e5d774',1,'llvm::memoir::TypeInference::run()']]]
 ];

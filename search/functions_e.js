@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['to_5fstring_563',['to_string',['../structllvm_1_1memoir_1_1Metadata.html#aba03b0c983e4f8d4e9006f1bef3eed29',1,'llvm::memoir::Metadata']]],
+  ['transformed_564',['transformed',['../classllvm_1_1memoir_1_1DeadElementElimination.html#ae73c7afeead8285b32059082d6c945a2',1,'llvm::memoir::DeadElementElimination']]],
+  ['type_565',['type',['../structllvm_1_1memoir_1_1Object.html#a88d137573ec944044d53ee375fbc3140',1,'llvm::memoir::Object::type(llvm::Value &amp;value, OffsetsRef offsets)'],['../structllvm_1_1memoir_1_1Object.html#ab87599ba07d1e6f5ba59f5faab6c9302',1,'llvm::memoir::Object::type(Type &amp;type, OffsetsRef offsets)'],['../structllvm_1_1memoir_1_1Object.html#a9c6d1fdb0cc8d367d1e8210bc2697de2',1,'llvm::memoir::Object::type() const'],['../classllvm_1_1memoir_1_1TypeInference.html#a1dad1ce4570324814b08a96b7c990728',1,'llvm::memoir::TypeInference::type(llvm::Argument &amp;A, Type *type)'],['../classllvm_1_1memoir_1_1TypeInference.html#a594a35856491fdfcdb0a20469cf3c9fa',1,'llvm::memoir::TypeInference::type(llvm::Function &amp;F, Type *return_type)']]],
+  ['type_5fof_566',['type_of',['../classllvm_1_1memoir_1_1TypeChecker.html#a96ef5231ec689b5790105a7d729176ed',1,'llvm::memoir::TypeChecker::type_of(MemOIRInst &amp;I)'],['../classllvm_1_1memoir_1_1TypeChecker.html#a2c21121f78e7b2119bcc2329bb705198',1,'llvm::memoir::TypeChecker::type_of(llvm::Value &amp;V)']]],
+  ['typeinference_567',['TypeInference',['../classllvm_1_1memoir_1_1TypeInference.html#a11735ecd517c8288d3775d88e2803bee',1,'llvm::memoir::TypeInference::TypeInference(llvm::Module &amp;M)'],['../classllvm_1_1memoir_1_1TypeInference.html#a11735ecd517c8288d3775d88e2803bee',1,'llvm::memoir::TypeInference::TypeInference(llvm::Module &amp;M)']]]
+];

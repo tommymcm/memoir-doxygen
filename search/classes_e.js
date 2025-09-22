@@ -1,12 +1,7 @@
 var searchData=
 [
-  ['rangeanalysisdriver',['RangeAnalysisDriver',['../classllvm_1_1memoir_1_1RangeAnalysisDriver.html',1,'llvm::memoir']]],
-  ['rangeanalysisresult',['RangeAnalysisResult',['../structllvm_1_1memoir_1_1RangeAnalysisResult.html',1,'llvm::memoir']]],
-  ['readinst',['ReadInst',['../structllvm_1_1memoir_1_1ReadInst.html',1,'llvm::memoir']]],
-  ['referencetype',['ReferenceType',['../structllvm_1_1memoir_1_1ReferenceType.html',1,'llvm::memoir']]],
-  ['referencetypeinst',['ReferenceTypeInst',['../structllvm_1_1memoir_1_1ReferenceTypeInst.html',1,'llvm::memoir']]],
-  ['remove_5fcv_5fref',['remove_cv_ref',['../structgraph__lite_1_1detail_1_1remove__cv__ref.html',1,'graph_lite::detail']]],
-  ['removeinst',['RemoveInst',['../structllvm_1_1memoir_1_1RemoveInst.html',1,'llvm::memoir']]],
-  ['retphiinst',['RetPHIInst',['../structllvm_1_1memoir_1_1RetPHIInst.html',1,'llvm::memoir']]],
-  ['returntypeinst',['ReturnTypeInst',['../structllvm_1_1memoir_1_1ReturnTypeInst.html',1,'llvm::memoir']]]
+  ['patch_442',['Patch',['../structllvm_1_1memoir_1_1Patch.html',1,'llvm::memoir']]],
+  ['phiexpression_443',['PHIExpression',['../structllvm_1_1memoir_1_1PHIExpression.html',1,'llvm::memoir']]],
+  ['pointertype_444',['PointerType',['../structllvm_1_1memoir_1_1PointerType.html',1,'llvm::memoir']]],
+  ['pointertypeinst_445',['PointerTypeInst',['../structllvm_1_1memoir_1_1PointerTypeInst.html',1,'llvm::memoir']]]
 ];

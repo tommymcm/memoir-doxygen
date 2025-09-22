@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['livenessdriver',['LivenessDriver',['../classllvm_1_1memoir_1_1LivenessDriver.html',1,'llvm::memoir']]],
-  ['livenessresult',['LivenessResult',['../structllvm_1_1memoir_1_1LivenessResult.html',1,'llvm::memoir']]],
-  ['liverangeanalysisdriver',['LiveRangeAnalysisDriver',['../classllvm_1_1memoir_1_1LiveRangeAnalysisDriver.html',1,'llvm::memoir']]],
-  ['liverangeanalysisresult',['LiveRangeAnalysisResult',['../structllvm_1_1memoir_1_1LiveRangeAnalysisResult.html',1,'llvm::memoir']]],
-  ['liverangeconstraintgraph',['LiveRangeConstraintGraph',['../structllvm_1_1memoir_1_1LiveRangeConstraintGraph.html',1,'llvm::memoir']]],
-  ['lowerfold',['LowerFold',['../classllvm_1_1memoir_1_1LowerFold.html',1,'llvm::memoir']]]
+  ['keyfolding_398',['KeyFolding',['../classllvm_1_1memoir_1_1KeyFolding.html',1,'llvm::memoir']]],
+  ['keyfoldinginfo_399',['KeyFoldingInfo',['../structllvm_1_1memoir_1_1KeyFolding_1_1KeyFoldingInfo.html',1,'llvm::memoir::KeyFolding']]],
+  ['keysinst_400',['KeysInst',['../structllvm_1_1memoir_1_1KeysInst.html',1,'llvm::memoir']]],
+  ['keyword_401',['Keyword',['../structllvm_1_1memoir_1_1Keyword.html',1,'llvm::memoir']]],
+  ['keyword_5fiterator_402',['keyword_iterator',['../structllvm_1_1memoir_1_1keyword__iterator.html',1,'llvm::memoir']]]
 ];

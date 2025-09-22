@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sizeanalysis',['SizeAnalysis',['../classllvm_1_1memoir_1_1SizeAnalysis.html#a186d68f44bcf8ed8acd35dd470a7d927',1,'llvm::memoir::SizeAnalysis']]]
+  ['join_548',['join',['../structllvm_1_1memoir_1_1BoundsCheckSet.html#a7ccb7719e22752c664c0f2dff343c766',1,'llvm::memoir::BoundsCheckSet']]]
 ];
